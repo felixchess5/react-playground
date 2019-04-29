@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1fd0fdf92e6a480c11b51b4c367d1c80",
+    "revision": "df4cde842303f06bea49dc02677aa358",
     "url": "/felixchess5/react-playground.git/index.html"
   },
   {
-    "revision": "c4b908359f677c1055ac",
-    "url": "/felixchess5/react-playground.git/static/css/main.584f321a.chunk.css"
+    "revision": "c6d608f61f02e5653c37",
+    "url": "/felixchess5/react-playground.git/static/css/main.4c1e8d7e.chunk.css"
   },
   {
-    "revision": "2e0129063922e3bb197a",
-    "url": "/felixchess5/react-playground.git/static/js/2.b41502e9.chunk.js"
+    "revision": "f721924163f577a0451d",
+    "url": "/felixchess5/react-playground.git/static/js/2.ba86e548.chunk.js"
   },
   {
-    "revision": "c4b908359f677c1055ac",
-    "url": "/felixchess5/react-playground.git/static/js/main.8c0ec5ec.chunk.js"
+    "revision": "c6d608f61f02e5653c37",
+    "url": "/felixchess5/react-playground.git/static/js/main.a36b6ee4.chunk.js"
   },
   {
     "revision": "92f770b030a4f5509bf9",
